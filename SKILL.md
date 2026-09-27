@@ -1,6 +1,6 @@
 ---
 name: paper-polisher
-version: 3.6.0
+version: 3.12.0
 author: DoctorQ Lab
 description: >
   AI writing detection (AI-rate self-check for authors), academic polishing
